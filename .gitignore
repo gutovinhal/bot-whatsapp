@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+
+# Arquivos de ambiente (segredos)
+.env
+.env.*
+!.env.example
+
+# Autenticação / cache do whatsapp-web.js
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Arquivos locais/temporários
+.bot.lock
+*.log
+
+# Debug do @distube/ytdl-core (gerado automaticamente quando o YouTube muda)
+*-player-script.js
+data/ytdl-debug/
