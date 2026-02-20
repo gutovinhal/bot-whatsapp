@@ -1,0 +1,60 @@
+node_modules/
+
+# Arquivos de ambiente (segredos)
+.env
+.env.*
+!.env.example
+
+# Autenticação / cache do whatsapp-web.js
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Arquivos locais/temporários
+.bot.lock
+*.log
+
+# Debug do @distube/ytdl-core (gerado automaticamente quando o YouTube muda)
+*-player-script.js
+data/ytdl-debug/
+
+# Node.js
+node_modules/
+
+# Arquivos de ambiente (segredos)
+.env
+.env.*
+!.env.example
+
+# Autenticação / cache do whatsapp-web.js
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Arquivos locais/temporários
+.bot.lock
+*.log
+
+# Debug do @distube/ytdl-core (gerado automaticamente quando o YouTube muda)
+*-player-script.js
+data/ytdl-debug/
+
+# VSCode
+.vscode/
+
+# Python virtual environments
+venv-rembg/
+venv-rembg-novo/
+*.pyc
+__pycache__/
+node_modules/
+.DS_Store
+.env
+
+# Logs
+data/logs/
+
+# Cache
+data/music-cache/
+
+# Sistema
+Thumbs.db
+ 

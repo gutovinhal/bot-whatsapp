@@ -1,0 +1,47 @@
+{
+  "120363423953508252@g.us": {
+    "bemvindo": {
+      "enabled": true,
+      "message": "✨ *BEM-VINDO(A) A SOCIEDADE DO CAOS*!\n\n💃 *APRESENTAÇÃO* 🕺:\n\n📸 *FOTO*:\n\n✅ *NOME*:\n\n🔞 *IDADE*:\n\n☄️ *SIGNO*:\n\n👅*ORIENTAÇÃO SEXUAL*:Hétero, gay, bi, etc.\n\n❤️ *ESTADO CIVIL*: Solteiro, namorando, casado e/ou outros\n\n🏡 *BAIRRO OU CIDADE*:\n\n📷 *INSTAGRAM*:\n\n✨ *TIPO DE ROLÊ PREFERIDO*:\n\n\n\n\n*Não apresentação ou interação sujeita a remoção do grupo*\n\nGentileza ler as regras do grupo. Comando: !regras"
+    },
+    "owner": "50483095970039@c.us",
+    "mutargrupo": {
+      "enabled": false
+    }
+  },
+  "120363424135456324@g.us": {
+    "bemvindo": {
+      "enabled": true,
+      "message": "✨ *BEM-VINDO(A) A SOCIEDADE DO CAOS*!\n\n💃 *APRESENTAÇÃO* 🕺:\n\n📸 *FOTO*:\n\n✅ *NOME*:\n\n🔞 *IDADE*:\n\n☄️ *SIGNO*:\n\n👅*ORIENTAÇÃO SEXUAL*:Hétero, gay, bi, etc.\n\n❤️ *ESTADO CIVIL*: Solteiro, namorando, casado e/ou outros\n\n🏡 *BAIRRO OU CIDADE*:\n\n📷 *INSTAGRAM*:\n\n✨ *TIPO DE ROLÊ PREFERIDO*:\n\n\n\n\n*Não apresentação ou interação sujeita a remoção do grupo*\n\nGentileza ler as regras do grupo. Comando: !regras"
+    },
+    "expulsarauto": {
+      "enabled": false,
+      "hours": 48
+    },
+    "mutargrupo": {
+      "enabled": false
+    },
+    "bloquearAudio": {
+      "enabled": false,
+      "somentePedro": true
+    }
+  },
+  "120363404322820492@g.us": {
+    "bemvindo": {
+      "enabled": true,
+      "message": "Grupo teste de finalidades"
+    },
+    "mutargrupo": {
+      "enabled": false
+    },
+    "expulsarauto": {
+      "enabled": true,
+      "minutes": 5
+    }
+  },
+  "120363425024859298@g.us": {
+    "mutargrupo": {
+      "enabled": true
+    }
+  }
+}
